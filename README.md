@@ -92,11 +92,13 @@ All the main configuration happens inside the `gradle.properties` file. It's the
 ### Mod Metadata
 Change these values to match your mod:
 ```properties
-mod_id=mymod
-mod_name=My Awesome Mod
-mod_version=1.0.0
-mod_authors=Your Name
-mod_description=A short and sweet description of your mod.
+mod_id=examplemod
+mod_name=Example Mod
+mod_version=0.0.1
+mod_authors=yourname
+mod_group_id=com.yourname.examplemod
+mod_description=Example Mod by yourname
+
 ```
 
 ### Minecraft & Forge Versions
