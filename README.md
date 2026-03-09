@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⛏ Minecraft Forge Mod Template ⛏
+# Minecraft Forge Mod Template
 
 [![Java Version](https://img.shields.io/badge/Java-17-orange.svg?style=flat-square&logo=java)](https://adoptium.net/temurin/releases/?version=17)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.x-588265.svg?style=flat-square&logo=minecraft)](https://minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.2.0-dfa338.svg?style=flat-square)](https://files.minecraftforge.net/)
 [![Gradle](https://img.shields.io/badge/Gradle-8.x-02303A.svg?style=flat-square&logo=gradle)](https://gradle.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](#-license)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](#license)
 
 *A clean, modern, and ready-to-use template for Minecraft Forge mod development using Parchment mappings.*
 
@@ -15,12 +15,12 @@
 ---
 
 ## Table of Contents
-- [Requirements](#-requirements)
-- [Quick Start](#-quick-start)
-- [Project Structure](#-project-structure)
-- [Configuration](#-configuration)
-- [Development](#-development)
-- [Contributing](#-contributing)
+- [Requirements](#requirements)
+- [Quick Start](#quick-start)
+- [Project Structure](#project-structure)
+- [Configuration](#configuration)
+- [Development](#development)
+- [Contributing](#contributing)
 
 ---
 
