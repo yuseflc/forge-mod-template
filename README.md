@@ -151,13 +151,13 @@ When syncing or building the project, you might see the following warnings in yo
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the **[issues page](https://github.com/yuseflc/forge-mod-template/issues)** if you want to report a bug, request a new feature, or let me know about outdated dependencies.
+Feel free to check the **[issues page](https://github.com/yuseflc/mod-template/issues)** if you want to report a bug, request a new feature, or let me know about outdated dependencies.
 
 ---
 
 ## License
 
-This project is licensed under the **MIT-License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
