@@ -136,12 +136,22 @@ dependencies {
 | **DataGen** | `./gradlew runData` | Runs data generators (recipes, loot tables) |
 | **IDE Setup**| `./gradlew genIntellijRuns`| Re-generates IntelliJ run configurations |
 
+### Known Build Warnings
+
+When syncing or building the project, you might see the following warnings in your console. **Both are completely harmless and can be safely ignored:**
+
+1. **`Deprecated Gradle features were used in this build...`**
+   This is caused by internal Forge plugins (like ForgeGradle) using older Gradle APIs. It does not affect your mod. This template hides these warnings by default using `org.gradle.warning.mode=none` in `gradle.properties`.
+2. **`Cannot resolve resource filtering of MatchingCopyAction...`**
+   This is a known visual bug in IntelliJ IDEA when it encounters the `expand` logic in `build.gradle` (used to replace properties in `mods.toml`). Since IntelliJ delegates the actual build process to Gradle by default, this warning will not cause any issues or failed builds.
+
 ---
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to contact me.
+Feel free to check the **[issues page](https://github.com/yuseflc/mod-template/issues)** if you want to report a bug, request a new feature, or let me know about outdated dependencies.
+
 
 ---
 
